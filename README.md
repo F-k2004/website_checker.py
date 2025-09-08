@@ -1,4 +1,4 @@
-# website_checker.py
+# website_checker.p
 import requests
 
 def check_website(url):
