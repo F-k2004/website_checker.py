@@ -1,5 +1,5 @@
 # website_checker.py
-import requests
+import requests.
 
 def check_website(url):
     try:
