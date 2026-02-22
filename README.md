@@ -1,7 +1,7 @@
 # website_checker.py
 import requests.
 
-def check_website(url):
+ef check_website(url):
     try:
         response = requests.get(url, timeout=5)
         if response.status_code == 200:
